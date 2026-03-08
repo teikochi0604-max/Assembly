@@ -1,0 +1,13 @@
+# 忽略所有文件夹下的目标文件和可执行文件
+*.o
+*.out
+
+# 忽略具体作业生成的可执行二进制名
+hello
+arith_op
+checksum
+checksum-c
+
+# 忽略编译产生的临时文件
+.nfs*
+.DS_Store
