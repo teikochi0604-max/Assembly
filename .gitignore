@@ -7,6 +7,8 @@ hello
 arith_op
 checksum
 checksum-c
+test32
+test64
 
 # 忽略编译产生的临时文件
 .nfs*
