@@ -12,6 +12,7 @@ test64
 xchg
 sum
 prime
+replace
 # 忽略编译产生的临时文件
 .nfs*
 .DS_Store
